@@ -15,5 +15,5 @@ if __name__ == '__main__':
     xor = '746865206b696420646f6e277420706c6179'
 
     output = fixed_xor(buffer_1, buffer_2)
-    print(f"{output=}")
+    print(f'{output=}')
     assert output == xor
