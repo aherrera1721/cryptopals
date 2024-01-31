@@ -1,2 +1,2 @@
-# special-waffle
-Solutions for The Cryptopals Crypto Challenges (https://cryptopals.com) in Python
+# cryptopals
+Solutions for [The Cryptopals Crypto Challenges](https://cryptopals.com) in Python
